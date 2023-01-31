@@ -129,4 +129,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Calculadora_Teorema_Pitagoras
-selenium_native_project
+.selenium_native_project/
